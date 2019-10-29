@@ -8,6 +8,8 @@
 #Requires requests and paramiko packages
 #pip install requests paramiko
 
+#usage: $ python3 apcon.py
+
 import smtplib, time, paramiko,urllib3, json, requests, xml.etree.ElementTree as ET
 from datetime import datetime
 from email.message import EmailMessage

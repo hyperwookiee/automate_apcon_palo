@@ -9,3 +9,5 @@ Requires requests and paramiko packages
 $pip install requests paramiko
 
 Please edit the actual Python script to add required information
+
+Usage: $ python3 apcon.py
